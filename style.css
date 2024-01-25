@@ -1,0 +1,173 @@
+.ul{
+    display: flex;
+    gap: 50px;
+    margin-left: 500px;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.a{
+    color: black;
+}
+.it{
+    display: flex;
+    justify-content: center;
+}
+.mu{
+    display: flex;
+    justify-content: center;
+}
+.section-hero-btn{
+    width: 200px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #4985FF;
+    color: #FFFFFF;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.sectionhero-btn{
+    width: 200px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #4985FF;
+    color: #FFFFFF;
+    display: block;
+    margin: 0 auto;
+}
+.section-herobtn{
+    width: 200px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #4985FF;
+    color: #FFFFFF;
+    display: block;
+    margin: 0 auto;
+    margin-top: 45px;
+}
+.mi{
+    display: flex;
+    justify-content: center;
+}
+.ipsum{
+    color: #999999;
+    display: flex;
+    max-width: 505px;
+}
+.ip{
+    display: flex;
+    justify-content: center;
+}
+.pro{
+    color: #4985FF;
+}
+.nashi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    border-radius: 10px;
+}
+.lor{
+    color: #999999;
+    max-width: 300px;
+}
+.section-hero{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+.lor-hero{
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+}
+.det{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+.nash{
+    display: flex;
+    justify-content: center;
+}
+.ruba{
+    color: #999999;
+    max-width: 600px;
+    display: block;
+}
+.img-hover{
+    display: flex;
+    gap: 45px;
+    justify-content: center;
+}
+.r{
+    color: #999999;
+    max-width: 700px;
+    justify-content: center;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+.nav{
+    color: #999999;
+}
+.jk{
+    color: white;
+}
+.w{
+    display: flex;
+    justify-content: center;
+    gap: 185px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+     color: #999999;
+}
+.dav{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-bottom: 50px;
+    margin-top: 70px;
+}
+.deta{
+    color: #4985FF;
+}
+.sect{
+    max-width: 500px;
+    margin-left: 70px;
+}
+.info{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.ip{
+    color: #999999;
+    max-width: 235px;
+}
+.l{
+    max-width: 300px;
+}
+.section{
+    display: flex;
+    gap: 150px;
+}
+.s{
+    margin-left: 80px;
+    margin-top: 80px;
+}
+.ua{
+    color:#999999;
+    max-width: 600px;
+    margin-left: 350px;
+}
